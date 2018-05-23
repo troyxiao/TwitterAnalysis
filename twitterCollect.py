@@ -7,10 +7,10 @@ import json
 import time
 
 # Twitter API keys
-consumer_key = 'PSstLBpnp1oEgCtJQGFzSoXs0'
-consumer_secret = 'f5v36gPN2u0cuBVujLqa2NBH3b5uJRRVTaGcGGtn1tEcM377vp'
-access_token = '998641782194933760-YCNSkx8udzUA5Yx5DLO3l2w4FjQfaVR'
-access_secret = 'PsHZQL76UQzwxsw9HnNFSd7U2c6gIcD5odWvO1ihjgMc7'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
